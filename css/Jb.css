@@ -22,20 +22,20 @@ h3{
 
 .top-cloud{
     position: absolute;
-    top: 400px;
+    top: 350px;
     right: 600px;
 }
 
 .bottom-cloud{
     position: absolute;
-    left: 450px;
+    left: 350px;
     bottom: 170px;
 }
 
 .birds{
     position: absolute;
     top: 550px;
-    left:580px;
+    left: 600px;
     width: 400px; 
     height: 110px;
 }
@@ -43,7 +43,7 @@ h3{
 .sun{
     position: absolute;
     top: 375px;
-    left:550px;
+    left:450px;
     width: 150px;
     height: 150px; 
 }
