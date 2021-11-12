@@ -1,1 +1,1 @@
-# wd02
+# https://soriyu1123.github.io/wd02/
