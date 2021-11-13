@@ -1,5 +1,5 @@
 body{
-    background-color: white;
+    background-color: blanchedalmond;
     margin: 0;
     text-align: center;
     font-family: 'Montserrat', 'sans-serif';
@@ -95,13 +95,13 @@ h3{
 
 .button{
     text-decoration: none;
-    background:dodgerblue;
+    background:blueviolet;
     padding: 20px 30px;
     color: white;
 }
 
 .button:hover{
-    background:royalblue;
+    background:orange;
 }
 
 h2{
@@ -121,7 +121,7 @@ h2{
 
 .footer{
     padding: 3% 0;
-    background-color:dodgerblue;
+    background-color:orange;
     color: white;
 }
 
@@ -130,5 +130,5 @@ h2{
 }
 
 .footer-icon:hover{
-    color:royalblue;
+    color:rgb(26, 208, 159);
 }
